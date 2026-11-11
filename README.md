@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @stuartfaith
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🍎 I love NYC 
+- 🏃‍♀️ I love running
+- 🧑‍🍳 I love cooking
+- 📊 I love building helpful datasets 
+- 📫 How to reach me ... stuart.faith@nytimes.com
 
 <!---
 stuartfaith/stuartfaith is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
